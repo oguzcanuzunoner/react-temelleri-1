@@ -1,0 +1,15 @@
+{
+  "name": "odev1",
+  "version": "1.0.0",
+  "description": "Patika React Temel Odev 1",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Oğuzcan Uzunöner",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
